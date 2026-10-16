@@ -1,0 +1,20 @@
+{
+	"node": "n8n-nodes-moon.moonPost",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Marketing & Content"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://app.moonpost.ro/api/docs"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/themoonagency/n8n-nodes-moon#readme"
+			}
+		]
+	}
+}
