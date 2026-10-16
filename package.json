@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-moon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n nodes for MOON Chat (AI chatbot) and MOON Post (AI content writer)",
   "license": "MIT",
   "homepage": "https://github.com/themoonagency/n8n-nodes-moon#readme",
